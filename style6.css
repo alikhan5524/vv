@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    justify-content: center;
+    flex: row;
+}
+.bkk{
+background-color: black;
+font-size: medium;
+border-radius: 20px;
+color: azure;
+padding: 25px;
+border-radius: 25px;
+width: 200px;
+height: 20px;
+}
+.bb{
+display: flex;
+justify-content: center;
+}
+.bj{
+    display: flex;
+    margin-top: 300px;
+    
+}
+.y{
+    display: flex;
+    margin-left: 100px;
+}
+.bkk{
+    display: flex;
+    margin-top: 650px;
+    margin-right: 1000px;
+}
+
+    
+    
+
+    
