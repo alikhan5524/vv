@@ -18,16 +18,19 @@ display: flex;
 justify-content: center;
 }
 .bj{
-    display: flex;
+    
     margin-top: 300px;
+    width: 500px;
     
 }
 .y{
-    display: flex;
+    
     margin-left: 100px;
+    width: 500px;
+    height: 500px;
 }
 .bkk{
-    display: flex;
+    
     margin-top: 650px;
     margin-right: 1000px;
 }
