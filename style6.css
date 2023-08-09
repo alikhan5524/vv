@@ -13,7 +13,6 @@ border-radius: 25px;
 width: 200px;
 height: 20px;
 display: block;
-    
     margin: 30px 0px 0px 20px ;
     
 
@@ -21,6 +20,7 @@ display: block;
 .bb{
 display: flex;
 justify-content: center;
+align-items: center;
 }
 .bj{
     
@@ -33,6 +33,15 @@ justify-content: center;
     margin-left: 100px;
     width: 500px;
     height: 500px;
+}
+.hg{
+    font-size: large;
+    margin-left: 700px;
+}
+.vv{
+    display: flex;
+    flex-direction: column;
+
 }
 
    
