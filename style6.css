@@ -36,26 +36,20 @@ align-items: center;
 }
 .hg{
     font-size: large;
-    margin-left: 700px;
+    text-align: center;
+    
 }
 .vv{
     display: flex;
     flex-direction: column;
 
 }
-.tf{
-    margin-left: 0px;
-    margin-bottom: 0px;
-    width: 350px;
-    height: 350p;
-}
+
 .y{
     margin-left: 350px;
     margin-left: 350px;
 }
-.ty{
-    margin-right: 20px;
-}
+
 .j{
 display: flex;
 width: 350px;
@@ -65,10 +59,18 @@ height: 350px;
     background-color: black;
     color: floralwhite;
     border-radius: 15px;
+    width: 200px;
+    height: 30px;
+    padding: 15px;
+    
 }
 .tre{
     display: flex;
     justify-content: space-around;
+}
+.tir{
+    margin-right: 1000px;
+    display: flex;
 }
 
 
