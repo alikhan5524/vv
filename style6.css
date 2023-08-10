@@ -28,12 +28,9 @@ align-items: center;
     width: 500px;
     
 }
-.y{
+
     
-    margin-left: 100px;
-    width: 500px;
-    height: 500px;
-}
+
 .hg{
     font-size: large;
     text-align: center;
@@ -45,33 +42,58 @@ align-items: center;
 
 }
 
-.y{
-    margin-left: 350px;
-    margin-left: 350px;
-}
 
-.j{
-display: flex;
-width: 350px;
-height: 350px;
-}
-.yr{
-    background-color: black;
-    color: floralwhite;
-    border-radius: 15px;
-    width: 200px;
-    height: 30px;
-    padding: 15px;
+
+
     
-}
+
 .tre{
     display: flex;
     justify-content: space-around;
+    flex-direction: row;
 }
+
+
 .tir{
-    margin-right: 1000px;
     display: flex;
+    flex-direction: column;
+    
 }
+.j{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.buttol{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.duo{
+    display: flex;
+    flex-direction: column;
+
+}
+.phone{
+    margin-right: 250px;
+}
+
 
 
 
