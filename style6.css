@@ -14,6 +14,8 @@ width: 200px;
 height: 20px;
 display: block;
     margin: 30px 0px 0px 20px ;
+    text-align: center;
+    text-decoration: dashed;
     
 
 }
@@ -69,6 +71,8 @@ align-items: center;
     color: white;
     padding: 15px;
     border-radius: 20px;
+    text-align: center;
+    text-decoration: dashed;
 }
 
 .buttol{
@@ -78,6 +82,8 @@ align-items: center;
     padding: 15px;
     border-radius: 20px;
     margin-top: 200px;
+    text-align: center;
+    text-decoration: dashed;
 }
 .all{
     display: flex;
@@ -91,8 +97,97 @@ align-items: center;
 
 }
 .phone{
-    margin-right: 250px;
+    display: flex;
+    margin-left: 500px;
 }
+.tl{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+    
+
+
+
+
+.m{
+    background-color: black;
+font-size: medium;
+border-radius: 20px;
+color: azure;
+padding: 25px;
+border-radius: 25px;
+width: 200px;
+height: 20px;
+display: block;
+    margin: 30px 0px 0px 20px ;
+}
+.namo{
+    display: flex;
+    flex-direction: row;
+}
+.wey{
+    display: flex;
+    flex-direction:column
+}
+.kpikt{
+    display: flex;
+    flex-direction: column;
+}
+.trewq{
+    display: flex;
+    flex-direction: column;
+}
+.wem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.buttop{
+    background-color: black;
+font-size: medium;
+border-radius: 20px;
+color: azure;
+padding: 25px;
+border-radius: 25px;
+width: 200px;
+height: 20px;
+display: block;
+    margin: 30px 0px 0px 20px ;
+}
+.end{
+    display: flex;
+   background-color: grey; 
+   padding: 25px;
+   margin-top: 150px;
+}
+.fd{
+    margin-left: 1000px;
+    margin-bottom: 200px;
+}
+.ds{
+    display: flex;
+    flex-direction: column;
+}
+.F{
+    display: flex;
+    flex-direction: row;
+}
+.tr{
+    border: 2px solid black;
+    border-radius: 15px;
+
+
+}
+.bj{
+    border: 2px solid black;
+    border-radius: 15px;
+ 
+}
+
+
 
 
 
