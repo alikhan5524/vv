@@ -117,22 +117,7 @@ align-items: center;
 
 
 
-.m{
-    background-color: black;
-font-size: medium;
-border-radius: 20px;
-color: azure;
-padding: 25px;
-border-radius: 25px;
-width: 200px;
-height: 20px;
-display: block;
-    margin: 30px 0px 0px 20px ;
-}
-.namo{
-    display: flex;
-    flex-direction: row;
-}
+
 .wey{
     display: flex;
     flex-direction:column
@@ -202,7 +187,38 @@ display: block;
 .y{
     margin-right: 200px;
 }
+.tmnb{
+    display: flex;
+    justify-content: left;
+}
+.buttov{
+    background-color: black;
+    font-size: medium;
+    border-radius: 20px;
+    color: azure;
+    padding: 25px;
+    border-radius: 25px;
+    width: 200px;
+    height: 20px;
+    display: block;
+        margin: 30px 0px 0px 20px ; 
+}
+#pop-up{
+    display: none;
+    background-color: white;
+    width:400px;
+    height: 450px;
+    position: absolute;
+    top: 50%;
+    z-index: 999;
 
+}
+.cover-block::before {
+    display: block;
+}
+.window-position {
+    display: block;
+}
 
 
 
